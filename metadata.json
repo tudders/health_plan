@@ -1,0 +1,6 @@
+{
+  "name": "NeuroImmune Axis: SCT, ADHD, MCAS & Visceral Hypersensitivity",
+  "description": "Clinical deep-dive and interactive pathophysiology explorer examining the intersection of Sluggish Cognitive Tempo, ADHD, Mast Cell Activation Syndrome, visceral hypersensitivity, neuroinflammation, brain fog, and verbal and situational fluency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
